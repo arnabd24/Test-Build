@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo "hello world"
-date > /root/today
+echo "hello world" > /tmp/data
